@@ -1,7 +1,7 @@
-This  is my initial blog for wellness; my long term wellness goal is to be a Wellness Entrepreneur.   
+<p>This  is my initial blog for wellness; my long term wellness goal is to be a Wellness Entrepreneur.
 
 I am building a wellness event on Eventbrite; I am also looking to build meaningful relations to futurer my buisness in 
-technology, wellness and juice plus +.  Hope to see you at the event. Errin 
+technology, wellness and juice plus +.  Hope to see you at the event. Errin </p>
 
 
   <div>
@@ -11,3 +11,9 @@ technology, wellness and juice plus +.  Hope to see you at the event. Errin
 
 
   </div>
+
+   <div>
+    <a href="http://www.alchemymomentum.com" >Home | Alchemy Momentum</a>
+
+   </div>
+
